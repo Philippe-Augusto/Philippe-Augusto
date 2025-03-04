@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/github/followers/renatowow14?label=Follow&style=social" style="height:20px"/>
 </a>
 
-### Me chamo Philippe Augusto 👋
+### Olá, me chamo Philippe Augusto 👋
 
 - 🔭 Estou trilhando minha jornada como DevOps Engineer
 - 🌱 Estou Constantemente estudando DevOps e Cloud
