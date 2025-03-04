@@ -12,8 +12,8 @@
 ## ⚡ GitHub Stats
  <div>
   <a href="https://github.com/Philippe-Augusto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Philippe-Augusto&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philippe-Augusto&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Philippe-Augusto&show_icons=true&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philippe-Augusto&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
 ## 🚀💻 Technologies & Tools
