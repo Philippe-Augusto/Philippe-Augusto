@@ -1,4 +1,4 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=renatowow14" alt="Philippe-Augusto" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Philippe-Augusto" alt="Philippe-Augusto" /></p>
 <a href="https://github.com/Philippe-Augusto/?tab=follow">
   <img src="https://img.shields.io/github/followers/renatowow14?label=Follow&style=social" style="height:20px"/>
 </a>
@@ -13,7 +13,7 @@
  <div>
   <a href="https://github.com/Philippe-Augusto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Philippe-Augusto&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philippe-August&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philippe-Augusto&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
 ## 🚀💻 Technologies & Tools
@@ -42,8 +42,4 @@
   <h1>Mídias</h1>
   <a href = "mailto:gyn.philippe@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/philippe-augusto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%235077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <h1>Commits</h1>
-  
-  ![Snake animation](https://github.com/Philippe-August/Philippe-August/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
