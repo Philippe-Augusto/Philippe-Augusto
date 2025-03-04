@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Philippe-Augusto" alt="Philippe-Augusto" /></p>
 <a href="https://github.com/Philippe-Augusto/?tab=follow">
-  <img src="https://img.shields.io/github/followers/renatowow14?label=Follow&style=social" style="height:20px"/>
+  <img src="https://img.shields.io/github/followers/Philippe-Augusto?label=Follow&style=social" style="height:20px"/>
 </a>
 
 ### Olá, me chamo Philippe Augusto 👋
