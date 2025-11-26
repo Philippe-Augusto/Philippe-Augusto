@@ -35,6 +35,7 @@
   <img align="center" height="35" width="50" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"/>
   <img align="center" height="35" width="50" alt="Grafana" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/grafana/grafana-original.svg"/>
   <img align="center" height="35" width="50" alt="Prometheus" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/prometheus/prometheus-original.svg"/>
+  <img align="center" height="35" width="50" alt="GCP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"/>
 </div>
 
  <div>  
